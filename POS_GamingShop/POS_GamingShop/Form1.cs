@@ -20,6 +20,10 @@ namespace POS_GamingShop
         private void button2_Click(object sender, EventArgs e)
         {
             Console.Beep();
+            Console.Beep();
+            Console.Beep();
+            Console.Beep();
+            Console.Beep();
         }
 
         private void button1_Click(object sender, EventArgs e)
