@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\",
+  "WorkspaceRootPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|d:\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\formularioangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\formularioangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|c:\\users\\maxim\\onedrive\\documentos\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|d:\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\pos_gamingshop\\formularioangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\formularioangel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormularioANGEL.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\FormularioANGEL.cs",
+              "DocumentIndex": 1,
+              "Title": "FormularioANGEL.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\FormularioANGEL.cs",
               "RelativeDocumentMoniker": "POS_GamingShop\\FormularioANGEL.cs",
-              "ToolTip": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\FormularioANGEL.cs [Dise\u00F1o]",
-              "RelativeToolTip": "POS_GamingShop\\FormularioANGEL.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\FormularioANGEL.cs [Design]",
+              "RelativeToolTip": "POS_GamingShop\\FormularioANGEL.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T03:00:52.249Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-03T03:00:52.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Form1.cs",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Form1.cs",
               "RelativeDocumentMoniker": "POS_GamingShop\\Form1.cs",
-              "ToolTip": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "POS_GamingShop\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Form1.cs [Design]",
+              "RelativeToolTip": "POS_GamingShop\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T02:22:56.332Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
