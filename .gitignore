@@ -1,0 +1,84 @@
+# Archivo .gitignore para proyectos de C# en Visual Studio
+
+# Entorno de desarrollo
+.vscode/
+.vs/
+
+# Archivos de usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de construcción
+bin/
+obj/
+*.cache
+*.ilk
+*.log
+*.ncb
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+.builds
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Directorio de paquetes, si se utiliza NuGet
+packages/
+.nuget/
+
+# SDKs de Xamarin
+*.apk
+*.ap_
+*.dex
+*.jar
+*.apk
+*.ap_
+*.dex
+*.jar
+*.keystore
+*.assets
+*.obj
+*.Resources
+*.ResourceRules
+*.node_modules
+
+# Configuración local del sistema
+.idea/
+*.sln.iml
+*.iml
+
+# Archivos generados por análisis estático
+.analysis
+.vshistory
+
+# Rider
+.idea/
+*.sln.iml
+*.sln.DotSettings.user
+*.dotSettings.user
+
+# Otros
+.DS_Store
+Thumbs.db
+*.class
+*.log
+*.swp
+*.tmp
+*.directory
