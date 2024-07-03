@@ -1,0 +1,11 @@
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\POS_GamingShop.exe.config
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\POS_GamingShop.exe
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\POS_GamingShop.pdb
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.AssemblyReference.cache
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Form1.resources
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Properties.Resources.resources
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.GenerateResource.cache
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.exe
+C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.pdb
