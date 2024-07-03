@@ -16,5 +16,15 @@ namespace POS_GamingShop
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Console.Beep();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }
