@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace POS_GamingShop
+namespace POS_GamingShop.Accesos
 {
-    public partial class FormularioANGEL : Form
+    public partial class Login : Form
     {
-        public FormularioANGEL()
+        public Login()
         {
             InitializeComponent();
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

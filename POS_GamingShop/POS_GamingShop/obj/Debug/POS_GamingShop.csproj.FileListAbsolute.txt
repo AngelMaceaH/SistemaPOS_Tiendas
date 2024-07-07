@@ -9,3 +9,16 @@ C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\
 C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.CoreCompileInputs.cache
 C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.exe
 C:\Users\Axel\Documents\GitHub\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.pdb
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.AssemblyReference.cache
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Accesos.Login.resources
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Form2.resources
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.FORMULARIO_AXEL.resources
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.GenerateResource.cache
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.exe
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.pdb
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\bin\GamingShop_DB.mdb
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\POS_GamingShop.exe.config
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\POS_GamingShop.exe
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\POS_GamingShop.pdb
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Properties.Resources.resources
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.CoreCompileInputs.cache
