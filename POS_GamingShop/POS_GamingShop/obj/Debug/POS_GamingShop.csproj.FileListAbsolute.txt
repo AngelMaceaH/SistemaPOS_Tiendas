@@ -22,3 +22,4 @@ D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\POS_GamingS
 D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\bin\Debug\POS_GamingShop.pdb
 D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Properties.Resources.resources
 D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.csproj.CoreCompileInputs.cache
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Accesos.AdminForm.resources
