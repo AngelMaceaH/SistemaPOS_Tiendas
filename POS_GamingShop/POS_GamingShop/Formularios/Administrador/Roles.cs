@@ -8,23 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace POS_GamingShop
+namespace POS_GamingShop.Formularios.Administrador
 {
-    public partial class Form2 : Form
+    public partial class Roles : Form
     {
-        public Form2()
+        public Roles()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Console.Beep();
         }
     }
 }

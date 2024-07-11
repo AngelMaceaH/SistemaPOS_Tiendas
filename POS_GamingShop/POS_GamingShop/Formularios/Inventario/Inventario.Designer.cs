@@ -1,6 +1,6 @@
-﻿namespace POS_GamingShop
+﻿namespace POS_GamingShop.Formularios.Inventario
 {
-    partial class Form2
+    partial class Inventario
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Form2
+            // Inventario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form2";
-            this.Text = "POS Gaming Shop";
+            this.ClientSize = new System.Drawing.Size(1070, 576);
+            this.Name = "Inventario";
+            this.Text = "Gestión de Inventario";
             this.ResumeLayout(false);
 
         }
