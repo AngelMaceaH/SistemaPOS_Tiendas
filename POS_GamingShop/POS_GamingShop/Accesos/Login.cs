@@ -26,7 +26,7 @@ namespace POS_GamingShop.Accesos
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try
+            /*try
             {
                 using (OleDbConnection con = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=.\GamingShop_DB.mdb;Persist Security Info=false;"))
                 {
@@ -66,8 +66,9 @@ namespace POS_GamingShop.Accesos
             catch (Exception ex)
             {
                 MessageBox.Show("Ha ocurrido un error: " + ex.Message);
-            }
-
+            }*/
+            this.Hide();
+            new Accesos.AdminForm().Show();
         }
     }
 }

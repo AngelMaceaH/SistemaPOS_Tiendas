@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Programador\\Documents\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\",
+  "WorkspaceRootPath": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|c:\\users\\programador\\documents\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\accesos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\accesos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|d:\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\accesos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\accesos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|c:\\users\\programador\\documents\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\accesos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\accesos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|d:\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\accesos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\accesos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminForm.cs",
-              "DocumentMoniker": "C:\\Users\\Programador\\Documents\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\AdminForm.cs",
-              "RelativeDocumentMoniker": "POS_GamingShop\\Accesos\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\Programador\\Documents\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\AdminForm.cs",
-              "RelativeToolTip": "POS_GamingShop\\Accesos\\AdminForm.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAASwBYAAAALAAAA",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\Login.cs",
+              "RelativeDocumentMoniker": "POS_GamingShop\\Accesos\\Login.cs",
+              "ToolTip": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\Login.cs",
+              "RelativeToolTip": "POS_GamingShop\\Accesos\\Login.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T22:44:23.431Z",
+              "WhenOpened": "2024-07-13T01:38:30.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Programador\\Documents\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\AdminForm.cs",
-              "RelativeDocumentMoniker": "POS_GamingShop\\Accesos\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\Programador\\Documents\\GitHub\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\AdminForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "POS_GamingShop\\Accesos\\AdminForm.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\Login.cs",
+              "RelativeDocumentMoniker": "POS_GamingShop\\Accesos\\Login.cs",
+              "ToolTip": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "POS_GamingShop\\Accesos\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T22:43:43.992Z",
+              "WhenOpened": "2024-07-13T01:38:29.465Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
