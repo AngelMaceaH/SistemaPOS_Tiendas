@@ -58,7 +58,8 @@
     <Compile Include="Accesos\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="Clases\Conexion.cs" />
+    <Compile Include="Clases\Proveedor.cs" />
+    <Compile Include="Clases\Categoria.cs" />
     <Compile Include="Formularios\Administrador\Proveedores.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +77,18 @@
     </Compile>
     <Compile Include="Formularios\Administrador\Usuarios.Designer.cs">
       <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Inventario\Crear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Inventario\Crear.Designer.cs">
+      <DependentUpon>Crear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Inventario\Editar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Inventario\Editar.Designer.cs">
+      <DependentUpon>Editar.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\Inventario\Inventario.cs">
       <SubType>Form</SubType>
@@ -111,6 +124,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Administrador\Usuarios.resx">
       <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Inventario\Crear.resx">
+      <DependentUpon>Crear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Inventario\Editar.resx">
+      <DependentUpon>Editar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\Inventario\Inventario.resx">
       <DependentUpon>Inventario.cs</DependentUpon>

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|d:\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\accesos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\accesos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|d:\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\formularios\\inventario\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\formularios\\inventario\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|d:\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\accesos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\accesos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|d:\\github\\sistemapos_tiendas\\pos_gamingshop\\pos_gamingshop\\formularios\\inventario\\crear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{308D8693-8636-4929-A6F9-6232B4797C93}|POS_GamingShop\\POS_GamingShop.csproj|solutionrelative:pos_gamingshop\\formularios\\inventario\\crear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\Login.cs",
-              "RelativeDocumentMoniker": "POS_GamingShop\\Accesos\\Login.cs",
-              "ToolTip": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\Login.cs",
-              "RelativeToolTip": "POS_GamingShop\\Accesos\\Login.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowEYAAAArAAAA",
+              "Title": "Editar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Formularios\\Inventario\\Editar.cs",
+              "RelativeDocumentMoniker": "POS_GamingShop\\Formularios\\Inventario\\Editar.cs",
+              "ToolTip": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Formularios\\Inventario\\Editar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "POS_GamingShop\\Formularios\\Inventario\\Editar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:38:30.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T03:51:17.94Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\Login.cs",
-              "RelativeDocumentMoniker": "POS_GamingShop\\Accesos\\Login.cs",
-              "ToolTip": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Accesos\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "POS_GamingShop\\Accesos\\Login.cs [Dise\u00F1o]",
+              "Title": "Crear.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Formularios\\Inventario\\Crear.cs",
+              "RelativeDocumentMoniker": "POS_GamingShop\\Formularios\\Inventario\\Crear.cs",
+              "ToolTip": "D:\\Github\\SistemaPOS_Tiendas\\POS_GamingShop\\POS_GamingShop\\Formularios\\Inventario\\Crear.cs [Dise\u00F1o]",
+              "RelativeToolTip": "POS_GamingShop\\Formularios\\Inventario\\Crear.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:38:29.465Z",
+              "WhenOpened": "2024-07-14T03:51:16.539Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

@@ -16,19 +16,20 @@ namespace POS_GamingShop.Formularios.Inventario
     {
         OleDbConnection con = new OleDbConnection();
         private static Random random = new Random();
+        private static Inventario instance;
         public Inventario()
         {
             InitializeComponent();
             con.ConnectionString = @"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + Application.StartupPath + ".\\GamingShop_DB.mdb;Persist Security Info=false;";
+            instance = this;
         }
-
-        private void btnSalir_Click(object sender, EventArgs e)
+        public static Inventario Instance
         {
-            this.Close();
+            get { return instance; }
         }
-        private void Inventario_Load(object sender, EventArgs e)
+        public void LoadData()
         {
-           try
+            try
             {
                 dtInventarios.Rows.Clear();
                 con.Open();
@@ -46,29 +47,28 @@ namespace POS_GamingShop.Formularios.Inventario
                 MessageBox.Show("Error: " + ex);
             }
         }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        private void Inventario_Load(object sender, EventArgs e)
+        {
+            LoadData();
+        }
         private void dataGridView1_DoubleClick(object sender, EventArgs e)
         {
             if (dtInventarios.CurrentRow != null)
             {
                 var id = dtInventarios.CurrentRow.Cells["ID"].Value;
 
-               /* con.Open();
-                OleDbCommand comando = new OleDbCommand("SELECT TOP 1 PROD_ID FROM PRODUCTOS ORDER BY PROD_ID DESC", con);
-                OleDbDataReader lector = comando.ExecuteReader();
-
-                string nuevoCodigo = "B0001";
-
-                if (lector.Read() && lector["PROD_ID"] != DBNull.Value)
-                {
-                    string ultimoCodigo = lector["PROD_ID"].ToString();
-                    int numero = int.Parse(ultimoCodigo.Substring(1)); 
-                    numero++;
-                    nuevoCodigo = $"B{numero:0000}"; 
-                }
-                lector.Close();
-                con.Close();*/
-
             }
+        }
+
+        private void btnNuevo_Click(object sender, EventArgs e)
+        {
+            Crear crear = new Crear();
+           crear.ShowDialog();
         }
     }
 }

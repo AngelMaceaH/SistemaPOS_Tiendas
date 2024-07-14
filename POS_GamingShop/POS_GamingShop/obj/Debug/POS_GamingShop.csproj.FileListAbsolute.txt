@@ -41,3 +41,4 @@ D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingS
 D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Formularios.Administrador.Roles.resources
 D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Formularios.Administrador.Usuarios.resources
 D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Formularios.Inventario.Inventario.resources
+D:\Github\SistemaPOS_Tiendas\POS_GamingShop\POS_GamingShop\obj\Debug\POS_GamingShop.Formularios.Inventario.Crear.resources
